@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="Test"/>
+	<classpathentry kind="src" path="servlets"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v7.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.7.0_51">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="Testing/selenium-java-2.42.2.jar"/>
+	<classpathentry kind="lib" path="Testing/selenium-server-standalone-2.42.2.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/activation.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/httpcore-4.2.3.jar.zip"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/httpcore.jar.zip"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/mail.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/mysql-connector-java-5.1.32-bin.jar"/>
+	<classpathentry kind="lib" path="C:/xampp1/tomcat/lib/annotations-api.jar"/>
+	<classpathentry kind="lib" path="C:/xampp1/tomcat/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HarmeetSingh/Desktop/recaptcha4j-0.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HarmeetSingh/Downloads/servlet-api-3.0-alpha-1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HarmeetSingh/Desktop/commons-lang3-3.1.jar"/>
+	<classpathentry kind="output" path="WEB-INF/classes"/>
+</classpath>
